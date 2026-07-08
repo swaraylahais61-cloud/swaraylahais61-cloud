@@ -71,7 +71,7 @@
 
 ## About Me
 
-I'm an Informatics Engineering student who learns by **building real products**, not following tutorials. My journey started with curiosity about how systems work—it evolved into building solutions that solve actual problems.
+I'm an Informatics Engineering student who learns by **building real products**, not following tutorials. My journey started with curiosity about how systems work it evolved into building solutions that solve actual problems.
 
 Most of my energy goes into **CraftSMS**, a modern School Management SaaS I'm building to help educational institutions digitize operations. I believe the best way to learn software engineering is by shipping products that create impact.
 
@@ -193,10 +193,10 @@ I'm always interested in discussing agentic systems, SaaS architecture, system d
   <a href="https://craftsms.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CraftSMS-3b82f6?style=for-the-badge&logo=rocket&logoColor=white" alt="CraftSMS" />
   </a>
-  <a href="https://facebook.com/SwaRay" style="text-decoration: none;">
+  <a href="profile.php?id=61581176440816" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-3b82f6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:contact@simone.dev" style="text-decoration: none;">
+  <a href="mailto:swaraylahais61@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
