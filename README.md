@@ -2,20 +2,20 @@
 
 *Informatics Engineering Student • Aspiring Network Engineer*
 
-I’m a student learning how technology works from the ground up, with a growing interest in networking, web development, and software engineering. I enjoy building projects, learning by doing, and exploring how systems connect in the real world.
+I’m a student exploring technology with a strong interest in networking, software development, and how systems work together in practice. I enjoy learning by building, solving problems, and turning ideas into working projects.
 
 ### Current Focus
-- **Network Engineering:** Learning the basics of routing, switching, IP networking, and infrastructure.
-- **Web & Software Development:** Exploring full-stack development and practical software design.
-- **AI-Assisted Learning:** Using AI tools to strengthen my understanding and speed up my learning.
+- **Network Engineering:** Learning routing, switching, IP networking, and infrastructure fundamentals.
+- **Web & Software Development:** Exploring full-stack development and modern software design practices.
+- **AI-Assisted Learning:** Using AI tools to strengthen my understanding and accelerate my learning process.
 
-### What I’m Working On
-- Building hands-on projects and learning through practice
-- Strengthening my foundations in networking and system design
-- Exploring how software and infrastructure work together
+### What I’m Building
+- Hands-on projects to improve my practical skills
+- A stronger foundation in networking and system design
+- Experience connecting software, infrastructure, and real-world problem solving
 
-### GitHub Activity
-I use this space to document my learning, experiment with ideas, and share what I build as I grow in technology.
+### GitHub Snapshot
+I use this space to document my learning journey, share my work, and keep improving as I grow in technology.
 
 <!-- These widgets pull real-time data from your public repositories -->
 <div align="left">
@@ -24,6 +24,6 @@ I use this space to document my learning, experiment with ideas, and share what 
 </div>
 
 ### Connect
-I’m always open to learning, collaboration, and new opportunities.
+I’m open to learning, collaboration, and new opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/lahai-simone-swaray) • [Portfolio](https://swaraylahais.dev) • [Email](mailto:swaraylahais61@gmail.com)
