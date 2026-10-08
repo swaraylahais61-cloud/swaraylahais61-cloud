@@ -1,13 +1,18 @@
 # Lahai Simone Swaray
 
-*Informatics Engineering Student & Aspiring Network Engineer*
+*Informatics Engineering Student • Aspiring Network Engineer*
 
-I am a student exploring the broader landscape of technology, with a primary focus on networking and a strong curiosity for web development and software architecture. I believe in keeping things simple, practical, and continuously learning.
+I’m a student learning how technology works from the ground up, with a growing interest in networking, web development, and software engineering. I enjoy building projects, learning by doing, and exploring how systems connect.
 
 ### Current Focus
-- **Network Engineering:** Building a solid foundation in networking principles, routing, and infrastructure.
-- **Software & Web Development:** Actively exploring full-stack web technologies and general software engineering practices.
-- **AI-Assisted Learning:** Leveraging AI as a mentor to accelerate my understanding of modern software design and problem-solving.
+- **Network Engineering:** Learning the basics of routing, switching, IP networking, and infrastructure.
+- **Web & Software Development:** Exploring full-stack development and practical software design.
+- **AI-Assisted Learning:** Using AI tools to strengthen my understanding and speed up my learning.
+
+### What I’m Working On
+- Building hands-on projects and learning through practice
+- Strengthening my foundations in networking and system design
+- Exploring how software and infrastructure work together
 
 ### The Work
 <!-- These widgets pull real-time data from your public repositories -->
@@ -17,6 +22,6 @@ I am a student exploring the broader landscape of technology, with a primary foc
 </div>
 
 ### Connect
-I use this space to experiment, learn, and document my journey.
+I’m always open to learning, collaboration, and new opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/lahai-simone-swaray) • [Portfolio](https://swaraylahais.dev) • [Email](mailto:swaraylahais61@gmail.com)
