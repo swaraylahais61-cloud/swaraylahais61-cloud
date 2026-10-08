@@ -1,31 +1,35 @@
 # Lahai Simone Swaray
 
-Student exploring different areas of technology.
+Engineering-minded developer building practical systems, thoughtful software, and a strong foundation in modern development.
 
-My primary goal is to become a Network Engineer. I am also actively learning Web Development and general Software Engineering.
+## About
 
-I use AI as a mentor to help shape my understanding of modern software, systems, and how good engineering thinking develops over time.
+I am a developer with a growing interest in software engineering, systems thinking, and the tools that make reliable products possible. My focus is on learning by building, improving my craft through iteration, and approaching engineering with clarity and discipline.
 
 ## Focus
 
-- Network Engineering
-- Web Development
 - Software Engineering
-- Systems thinking and practical learning
+- Web Development
+- Systems and Infrastructure
+- Clean, maintainable code
+- Problem solving through iteration
 
-## Current direction
+## Currently learning
 
-- Building a strong foundation in networking and infrastructure
-- Exploring how software powers real-world systems
-- Learning through projects, experimentation, and consistency
-- Improving my understanding of modern tools and workflows
+- Backend and API design
+- Modern software workflows and tooling
+- Infrastructure fundamentals
+- Product-minded engineering
 
-## Mindset
+## Philosophy
 
-I prefer quiet progress over noise. I learn by doing, by studying, and by improving with each step.
-
-Let the work speak for itself.
+I value quiet consistency over noise. Good engineering is built through curiosity, iteration, and attention to fundamentals.
 
 ## Contact
 
 - Email: swaraylahais61@gmail.com
+- GitHub: @your-github-username
+
+## GitHub Streak Stats
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
