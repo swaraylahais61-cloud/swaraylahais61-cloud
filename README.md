@@ -18,4 +18,4 @@ I am a student exploring the broader landscape of technology, with a primary foc
 ### Connect 
 I use this space to experiment, learn, and document my journey. 
 
-[LinkedIn](https://linkedin.com/in/lahai-swaray) • [Portfolio](https://swaraylahais.dev) • [Email](mailto:swaraylahais61@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lahai-simone-swaray) • [Portfolio](https://swaraylahais.dev) • [Email](mailto:swaraylahais61@gmail.com)
