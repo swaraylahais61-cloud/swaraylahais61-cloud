@@ -1,35 +1,21 @@
-# Lahai Simone Swaray
+# [Your Name]
+*Informatics Engineering Student & Aspiring Network Engineer*
 
-Engineering-minded developer building practical systems, thoughtful software, and a strong foundation in modern development.
+I am a student exploring the broader landscape of technology, with a primary focus on networking and a strong curiosity for web development and software architecture. I believe in keeping things straightforward and letting the code and infrastructure speak for themselves.
 
-## About
+### Current Focus
+*   **Network Engineering:** Building a solid foundation in networking principles, routing, and infrastructure.
+*   **Software & Web Development:** Actively exploring full-stack web technologies and general software engineering practices.
+*   **AI-Assisted Learning:** Leveraging AI as a mentor to accelerate my understanding of modern software design and problem-solving.
 
-I am a developer with a growing interest in software engineering, systems thinking, and the tools that make reliable products possible. My focus is on learning by building, improving my craft through iteration, and approaching engineering with clarity and discipline.
+### The Work
+<!-- These widgets pull real-time data from your public repositories -->
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
 
-## Focus
+### Connect 
+I use this space to experiment, learn, and document my journey. 
 
-- Software Engineering
-- Web Development
-- Systems and Infrastructure
-- Clean, maintainable code
-- Problem solving through iteration
-
-## Currently learning
-
-- Backend and API design
-- Modern software workflows and tooling
-- Infrastructure fundamentals
-- Product-minded engineering
-
-## Philosophy
-
-I value quiet consistency over noise. Good engineering is built through curiosity, iteration, and attention to fundamentals.
-
-## Contact
-
-- Email: swaraylahais61@gmail.com
-- GitHub: @your-github-username
-
-## GitHub Streak Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
+[LinkedIn](#) • [Portfolio](#) • [Email](mailto:your.email@example.com)
