@@ -2,7 +2,7 @@
 
 *Informatics Engineering Student • Aspiring Network Engineer*
 
-I’m a student learning how technology works from the ground up, with a growing interest in networking, web development, and software engineering. I enjoy building projects, learning by doing, and exploring how systems connect.
+I’m a student learning how technology works from the ground up, with a growing interest in networking, web development, and software engineering. I enjoy building projects, learning by doing, and exploring how systems connect in the real world.
 
 ### Current Focus
 - **Network Engineering:** Learning the basics of routing, switching, IP networking, and infrastructure.
@@ -14,7 +14,9 @@ I’m a student learning how technology works from the ground up, with a growing
 - Strengthening my foundations in networking and system design
 - Exploring how software and infrastructure work together
 
-### The Work
+### GitHub Activity
+I use this space to document my learning, experiment with ideas, and share what I build as I grow in technology.
+
 <!-- These widgets pull real-time data from your public repositories -->
 <div align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=swaraylahais&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
