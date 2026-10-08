@@ -1,4 +1,4 @@
-# Simone Swaray
+# Lahai Simone Swaray
 
 Student exploring different areas of technology.
 
