@@ -1,4 +1,4 @@
-# [Your Name]
+# Lahai Simone Swaray
 *Informatics Engineering Student & Aspiring Network Engineer*
 
 I am a student exploring the broader landscape of technology, with a primary focus on networking and a strong curiosity for web development and software architecture. I believe in keeping things straightforward and letting the code and infrastructure speak for themselves.
@@ -11,11 +11,11 @@ I am a student exploring the broader landscape of technology, with a primary foc
 ### The Work
 <!-- These widgets pull real-time data from your public repositories -->
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swaraylahais&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraylahais&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ### Connect 
 I use this space to experiment, learn, and document my journey. 
 
-[LinkedIn](#) • [Portfolio](#) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://linkedin.com/in/lahai-swaray) • [Portfolio](https://swaraylahais.dev) • [Email](mailto:swaraylahais61@gmail.com)
